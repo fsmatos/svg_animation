@@ -1,0 +1,10 @@
+body {
+  height: 200vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.framework-title {
+  display: flex;
+}
